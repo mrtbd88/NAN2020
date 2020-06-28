@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class Config extends WebDriverFunction{
-//	public static WebDriver driver;
+
 	public String url       = "https://www.facebook.com";
 	public String fnameLoc  ="//*[@id=\'u_0_m\']";
 	public String lnameLoc  ="//*[@id=\'u_0_o\']";
